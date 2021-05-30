@@ -34,16 +34,16 @@
 
 #include <map>
 
-#define WIFI_SSID         "no network found"    
-#define WIFI_PASS         "Zameel123"
-#define APP_KEY           "3f1eb5f3-fd3a-441b-9724-d4e6e2bc1110"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "3e0cf0c4-5b36-44e1-9f28-ef3d5b35c9e6-20bc2013-833b-4986-af64-e7d1e0868435"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_SSID         "your wifi name"    
+#define WIFI_PASS         "your wifi pass"
+#define APP_KEY           "this code is provided in sinric pro web hook"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "this code is provided in sinric pro web hook"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
 //Enter the device IDs here
 #define device_ID_1   "xxxxxxxxxxxxxxxxxxxxxxxx"
-#define device_ID_2   "607e84f8d9441c2b44abdca9"
-#define device_ID_3   "607e8534d9441c2b44abdcab"
-#define device_ID_4   "607e851a62694b2b55e35e07"
+#define device_ID_2   "xxxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_3   "xxxxxxxxxxxxxxxxxxxxxxxx"
+#define device_ID_4   "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 5  //D1
