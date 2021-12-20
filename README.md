@@ -12,3 +12,8 @@ A smart system made by using Node mcu dev board
 # Circuir Diagram
 
 <p align ="center"><img src="https://raw.githubusercontent.com/Zameel-Byte/home-automation-based-on-ai/main/Screenshot%202021-12-20%20173625.jpg"></p>
+
+
+# Youtube video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/STgnA16SDQQ/0.jpg)](https://www.youtube.com/watch?v=LrnLJwbiU-Q)
