@@ -16,4 +16,4 @@ A smart system made by using Node mcu dev board
 
 # Youtube video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/STgnA16SDQQ/0.jpg)](https://www.youtube.com/watch?v=LrnLJwbiU-Q)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LrnLJwbiU-Q/0.jpg)](https://www.youtube.com/watch?v=LrnLJwbiU-Q)
